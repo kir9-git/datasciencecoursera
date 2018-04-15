@@ -1,3 +1,3 @@
 
 
-## This is an R Markdown file
+## This is an Markdown file
